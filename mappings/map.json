@@ -1,0 +1,23 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "url": "/test"
+            },
+            "response": {
+                "status": 200,
+                "body": "More content\n"
+            }
+        },
+        {
+            "request": {
+                "method": "ANY",
+                "urlPattern": "/posts.*"
+            },
+            "response": {
+                "proxyBaseUrl": "http://json-server:3000/"
+            }
+        }
+    ]
+}

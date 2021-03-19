@@ -22,10 +22,14 @@ You can start without making any other configuration.
 docker compose up
 ```
 
+## Blog Post
+
+You can read details about this repo on this [blog post](https://irensaltali.medium.com/api-mocking-with-wiremock-and-json-server-basic-faf375d5492c "API Mocking with WireMock and JSON Server ").
+
 # Contact
 
-[irensaltali.com](https://irensaltali.com "İren SALTALI Blog")
+[irensaltali.com](https://irensaltali.medium.com "İren SALTALI Blog")
 
 # Follow Me On
 
-[Twitter](https://twitter.com/irensaltali) - [LinkedIn](https://linkedin.com/in/irensaltali) - [Stack Overflow](https://stackoverflow.com/users/3453221/iren) - [Medium](irensaltali.medium.com) - [reddit](https://www.reddit.com/user/irensaltali)
+[Twitter](https://twitter.com/irensaltali) - [LinkedIn](https://linkedin.com/in/irensaltali) - [Stack Overflow](https://stackoverflow.com/users/3453221/iren) - [Medium](https://irensaltali.medium.com) - [reddit](https://www.reddit.com/user/irensaltali)

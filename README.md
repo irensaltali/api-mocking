@@ -6,14 +6,6 @@ This tool contains two other tools. Wiremock and json-server. You can check thei
 * [Wiremock](http://wiremock.org/)
 - [json-server](https://github.com/typicode/json-server)
 
-## Predevelopment
-
-Create a newtork for them to connect each other.
-
-```bash
-docker network create toeachother
-```
-
 ## Start API Mocking
 
 You can start without making any other configuration.
